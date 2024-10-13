@@ -1,7 +1,7 @@
 # SwiftHLS
 
 ![Swift Package](https://img.shields.io/badge/Swift-6.0-orange.svg)
-![SwiftHLS](HLSLogo.svg)
+![SwiftHLS](HLSLogo.png)
 
 ## Overview
 
