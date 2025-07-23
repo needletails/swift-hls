@@ -1,7 +1,8 @@
+<img src="swift_hls.svg" alt="SwiftHLS" width="200" />
+
 # SwiftHLS
 
 ![Swift Package](https://img.shields.io/badge/Swift-6.0-orange.svg)
-![SwiftHLS](HLSLogo.png)
 
 ## Overview
 
